@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "740726634630",
+    "firebase_url": "https://tamil-nadu-ed72d.firebaseio.com",
+    "project_id": "tamil-nadu-ed72d",
+    "storage_bucket": "tamil-nadu-ed72d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740726634630:android:e619aea12fe2fc9b1c7907",
+        "android_client_info": {
+          "package_name": "com.covid19.tamilnadu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740726634630-rg341h9m9n8qmoiu556l62gt1ij4jdio.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.covid19.tamilnadu",
+            "certificate_hash": "3db8cd558aff88d5fbd857bf239382aeafe23508"
+          }
+        },
+        {
+          "client_id": "740726634630-hce5tlj80m65pomokohc0bi77kb2ea0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzw3Z9_lZO1jeD1ToRedGqfQ3wAElhYk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740726634630-hce5tlj80m65pomokohc0bi77kb2ea0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
