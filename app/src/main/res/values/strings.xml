@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Tamil Nadu</string>
+    <string name="app_name">Patukappanatu</string>
     <string name="health_care_worker">Health Care Worker</string>
     <string name="user">User</string>
     <string name="login">login</string>
@@ -49,7 +49,7 @@
     <string name="title_activity_test__maps">Map</string>
     <string name="title_activity_about">About</string>
     <string name="large_text">
-        "ABOUT Tamil Nadu\n\n"
+        "ABOUT Patukappanatu\n\n"
 
         "Our team has developed an app which we believe will help in slowing down the community spread"
         "of COVID-19 with the help of the feature of vicinity alert. The tagging of patients will be"
